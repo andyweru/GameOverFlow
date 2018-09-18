@@ -29,7 +29,7 @@ Gaming like any other profession or hobby has its fair share of challenges. Play
     - Python 3.6 required
 
 ## Set-up and Installation
-    - `$ Git Clone https://github.com/andyweru/GameOverFlow.git`
+    - $ Git Clone https://github.com/andyweru/GameOverFlow.git
     - Install python 3.6
     - Run chmod a+x start.py
     - Run ./start.py
