@@ -2,10 +2,10 @@
 A platform for gamers to ask questions and get answers and assistance to their question.
 
 ## Authors
-####**[Andrew Waweru](https://github.com/andyweru)**
-####**[Dan Alvin](https://github.com/danalvin)**
-####**[Austin Karuru](https://github.com/austinkaruru)**
-####**[Kamransumar](https://github.com/kamransumar)**
+#### **[Andrew Waweru](https://github.com/andyweru)**
+#### **[Dan Alvin](https://github.com/danalvin)**
+#### **[Austin Karuru](https://github.com/austinkaruru)**
+#### **[Kamransumar](https://github.com/kamransumar)**
 
 ## Description
 Gaming like any other profession or hobby has its fair share of challenges. Players encounter various difficulties in playing mentall y demanding games and it helps when you have fellow gamers to support you. With Game Overflow, Players have been given an opportunity to air out their problems and get appropriate solutions from other gamers. Gamers can share strategies, techniques, opinions and advice on how to tackle such challenges and overcome them.
