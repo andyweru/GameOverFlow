@@ -3,4 +3,4 @@
 
 export SECRET_KEY='abcd'
 
-python3.6 manage.py server
+python3.7 manage.py server
