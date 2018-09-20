@@ -7,8 +7,8 @@ from wtforms import StringField, PasswordField, BooleanField, SubmitField, Selec
 
 class QuestionForm(FlaskForm):
     title = StringField('Question title')
-    category = SelectField('Question Category', choices=[('product', 'product'),
-                                                         ('service', 'service'),         ('promotion', 'promotion'),     ('interview', 'interview')])
+    category = SelectField('Question Category', choices=[('Battle Royale', 'Battle Royale'),
+                                                         ('RPG', 'RPG'),         ('Shooter', 'Shooter'),     ('Strategy', 'Strategy'),     ('Racing', 'Racing'),     ('Sports', 'Sports')])
     content = TextAreaField('ask your question')
 
     submit = SubmitField('Submit')
